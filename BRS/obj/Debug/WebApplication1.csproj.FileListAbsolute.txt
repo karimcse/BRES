@@ -1,0 +1,10 @@
+F:\Project\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\Project\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\Project\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\Project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\ASP.NET Projects\Connection String\WebApplication1\bin\WebApplication1.dll
+F:\ASP.NET Projects\Connection String\WebApplication1\bin\WebApplication1.pdb
+F:\ASP.NET Projects\Connection String\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET Projects\Connection String\WebApplication1\obj\Debug\WebApplication1.dll
+F:\ASP.NET Projects\Connection String\WebApplication1\obj\Debug\WebApplication1.pdb

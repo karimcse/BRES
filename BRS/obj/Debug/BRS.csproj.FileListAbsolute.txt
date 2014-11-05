@@ -1,0 +1,27 @@
+F:\ASP.NET Projects\Connection String\BRS\bin\BRS.dll
+F:\ASP.NET Projects\Connection String\BRS\bin\BRS.pdb
+F:\ASP.NET Projects\Connection String\BRS\bin\HasCode.dll
+F:\ASP.NET Projects\Connection String\BRS\bin\NST.dll
+F:\ASP.NET Projects\Connection String\BRS\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET Projects\Connection String\BRS\obj\Debug\BRS.dll
+F:\ASP.NET Projects\Connection String\BRS\obj\Debug\BRS.pdb
+F:\ASP.NET Projects\BRS\BRS\bin\BRS.dll
+F:\ASP.NET Projects\BRS\BRS\bin\BRS.pdb
+F:\ASP.NET Projects\BRS\BRS\bin\HasCode.dll
+F:\ASP.NET Projects\BRS\BRS\bin\NST.dll
+F:\ASP.NET Projects\BRS\BRS\obj\Debug\BRS.dll
+F:\ASP.NET Projects\BRS\BRS\obj\Debug\BRS.pdb
+F:\ASP.NET Projects\BRS\BRS\obj\Debug\BRS.csprojResolveAssemblyReference.cache
+E:\ASP.NET Projects\BRS\BRS\bin\BRS.dll
+E:\ASP.NET Projects\BRS\BRS\bin\BRS.pdb
+E:\ASP.NET Projects\BRS\BRS\bin\HasCode.dll
+E:\ASP.NET Projects\BRS\BRS\bin\NST.dll
+E:\ASP.NET Projects\BRS\BRS\obj\Debug\ResolveAssemblyReference.cache
+E:\ASP.NET Projects\BRS\BRS\obj\Debug\BRS.dll
+E:\ASP.NET Projects\BRS\BRS\obj\Debug\BRS.pdb
+D:\BRS\BRS\bin\BRS.dll
+D:\BRS\BRS\bin\BRS.pdb
+D:\BRS\BRS\bin\HasCode.dll
+D:\BRS\BRS\bin\NST.dll
+D:\BRS\BRS\obj\Debug\BRS.dll
+D:\BRS\BRS\obj\Debug\BRS.pdb
